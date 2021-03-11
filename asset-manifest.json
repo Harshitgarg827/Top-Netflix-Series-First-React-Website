@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Top-Netflix-Series-First-React-Website/static/css/main.34becb46.chunk.css",
+    "main.js": "/Top-Netflix-Series-First-React-Website/static/js/main.00cef2e1.chunk.js",
+    "main.js.map": "/Top-Netflix-Series-First-React-Website/static/js/main.00cef2e1.chunk.js.map",
+    "runtime-main.js": "/Top-Netflix-Series-First-React-Website/static/js/runtime-main.495bdab0.js",
+    "runtime-main.js.map": "/Top-Netflix-Series-First-React-Website/static/js/runtime-main.495bdab0.js.map",
+    "static/js/2.01b691bf.chunk.js": "/Top-Netflix-Series-First-React-Website/static/js/2.01b691bf.chunk.js",
+    "static/js/2.01b691bf.chunk.js.map": "/Top-Netflix-Series-First-React-Website/static/js/2.01b691bf.chunk.js.map",
+    "index.html": "/Top-Netflix-Series-First-React-Website/index.html",
+    "static/css/main.34becb46.chunk.css.map": "/Top-Netflix-Series-First-React-Website/static/css/main.34becb46.chunk.css.map",
+    "static/js/2.01b691bf.chunk.js.LICENSE.txt": "/Top-Netflix-Series-First-React-Website/static/js/2.01b691bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.495bdab0.js",
+    "static/js/2.01b691bf.chunk.js",
+    "static/css/main.34becb46.chunk.css",
+    "static/js/main.00cef2e1.chunk.js"
+  ]
+}
